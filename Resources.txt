@@ -1,0 +1,25 @@
+Plugins:
+Yanfly's Message Core
+Yanfly's Message Pack 1
+Yanfly's Credits
+
+
+
+Tiles:
+
+
+
+
+Sprites:
+
+
+
+
+Sonidos:
+Together, We Ride! midi (https://www.vgmusic.com/music/console/nintendo/gba/FE-TogetherWeRide.mid)
+
+
+
+
+Imagenes:
+R-F -> Girls Generator (http://tm.lucky-duet.com/viewtopic.php?f=38&t=543)
