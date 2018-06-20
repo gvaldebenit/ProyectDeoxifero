@@ -1,5 +1,5 @@
 //=============================================================================
-// rpg_windows.js v1.4.0
+// rpg_windows.js v1.5.1 - Yanfly Desktop Optimized Version Update
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -700,6 +700,12 @@ Window_Base.prototype.canvasToLocalY = function(y) {
         node = node.parent;
     }
     return y;
+};
+
+Window_Base.prototype.reserveFaceImages = function() {
+    $gameParty.members().forEach(function(actor) {
+        ImageManager.reserveFace(actor.faceName());
+    }, this);
 };
 
 //-----------------------------------------------------------------------------
