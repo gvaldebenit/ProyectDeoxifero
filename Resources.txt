@@ -2,7 +2,7 @@ Plugins:
 Yanfly's Message Core
 Yanfly's Message Pack 1
 Yanfly's Credits
-
+Moghunter Animated Battlers
 
 
 Tiles:
