@@ -3,5 +3,16 @@ null,
 {"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":111,"indent":0,"parameters":[4,8,2,11]},{"code":122,"indent":1,"parameters":[4,4,0,3,3,8,2]},{"code":321,"indent":1,"parameters":[8,15,true]},{"code":311,"indent":1,"parameters":[0,8,0,1,4,false]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Cambio Paradigma","switchId":1,"trigger":0},
+{"id":12,"list":[{"code":111,"indent":0,"parameters":[4,8,2,15]},{"code":122,"indent":1,"parameters":[5,5,0,3,3,8,3]},{"code":321,"indent":1,"parameters":[8,12,true]},{"code":312,"indent":1,"parameters":[0,8,0,1,5]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Cambio Paradigma","switchId":1,"trigger":0},
+{"id":13,"list":[{"code":111,"indent":0,"parameters":[4,8,2,12]},{"code":321,"indent":1,"parameters":[8,13,true]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Cambio Paradigma","switchId":1,"trigger":0},
+{"id":14,"list":[{"code":111,"indent":0,"parameters":[4,8,2,13]},{"code":321,"indent":1,"parameters":[8,14,true]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Cambio Paradigma","switchId":1,"trigger":0},
+{"id":15,"list":[{"code":111,"indent":0,"parameters":[4,8,2,14]},{"code":321,"indent":1,"parameters":[8,11,true]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Cambio Paradigma","switchId":1,"trigger":0}
 ]
